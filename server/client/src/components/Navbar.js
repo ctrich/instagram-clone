@@ -9,7 +9,7 @@ const NavBar = () => {
         <Link to="/" className="brand-logo left">Instagram</Link>
         <ul id="nav-mobile" className="right">
           <li><Link to="/signin">Login</Link></li>
-          <li><Link to="/signup">Signup</Link></li>
+          <li><Link to="/signup">Sign Up</Link></li>
           <li><Link to="/profile">Profile</Link></li>
         </ul>
       </div>
